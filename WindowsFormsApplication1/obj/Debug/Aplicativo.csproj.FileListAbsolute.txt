@@ -11,3 +11,6 @@ C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\Apl
 C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\Aplicativo.csproj.GenerateResource.Cache
 C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bruno Cabral\Source\Repos\Projeto-Unibratec\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Bruno Cabral\Source\Repos\Projeto-Unibratec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Bruno Cabral\Source\Repos\Projeto-Unibratec\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
