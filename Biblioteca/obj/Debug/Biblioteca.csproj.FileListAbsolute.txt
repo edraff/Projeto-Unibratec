@@ -1,0 +1,6 @@
+C:\Users\Bruno Cabral\Desktop\componentes\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Bruno Cabral\Desktop\componentes\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Bruno Cabral\Desktop\componentes\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Bruno Cabral\Desktop\componentes\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+C:\Users\Bruno Cabral\Desktop\componentes\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Bruno Cabral\Desktop\componentes\Biblioteca\obj\Debug\Biblioteca.pdb

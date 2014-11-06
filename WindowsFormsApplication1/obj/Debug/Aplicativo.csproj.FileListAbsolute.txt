@@ -1,0 +1,13 @@
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\Aplicativo.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\Aplicativo.GUI.formTela.resources
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\Aplicativo.GUI.Menu.resources
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\Aplicativo.GUI.Orcamento.resources
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\Aplicativo.GUI.pesquisaCliente.resources
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\Aplicativo.GUI.Teste.resources
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\Aplicativo.Properties.Resources.resources
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\Aplicativo.csproj.GenerateResource.Cache
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Bruno Cabral\Desktop\componentes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
