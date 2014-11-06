@@ -34,6 +34,7 @@
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.listView1 = new System.Windows.Forms.ListView();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.listView2 = new System.Windows.Forms.ListView();
             this.SuspendLayout();
             // 
             // label1
@@ -65,7 +66,7 @@
             // 
             this.listView1.Location = new System.Drawing.Point(12, 61);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(630, 181);
+            this.listView1.Size = new System.Drawing.Size(387, 181);
             this.listView1.TabIndex = 2;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
@@ -77,11 +78,20 @@
             this.richTextBox1.TabIndex = 3;
             this.richTextBox1.Text = "";
             // 
+            // listView2
+            // 
+            this.listView2.Location = new System.Drawing.Point(472, 61);
+            this.listView2.Name = "listView2";
+            this.listView2.Size = new System.Drawing.Size(416, 181);
+            this.listView2.TabIndex = 4;
+            this.listView2.UseCompatibleStateImageBehavior = false;
+            // 
             // Orcamento
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(674, 400);
+            this.ClientSize = new System.Drawing.Size(900, 400);
+            this.Controls.Add(this.listView2);
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.textBox1);
@@ -102,6 +112,7 @@
         private System.Windows.Forms.ToolTip toolTip1;
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.ListView listView2;
 
     }
 }
