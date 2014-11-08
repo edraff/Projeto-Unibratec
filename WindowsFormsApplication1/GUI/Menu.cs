@@ -82,7 +82,7 @@ namespace Aplicativo.GUI
         private void button4_Click(object sender, EventArgs e)
         {
 
-            new Orcamento().ShowDialog();
+            new CriaServiço().ShowDialog();
         }
 
         private void button8_Click(object sender, EventArgs e)
