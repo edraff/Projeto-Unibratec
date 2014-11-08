@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GUI\EfetuaServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\EfetuaServico.Designer.cs">
+      <DependentUpon>EfetuaServico.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\formTela.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -55,23 +61,17 @@
     <Compile Include="GUI\Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
-    <Compile Include="GUI\Orcamento.cs">
+    <Compile Include="GUI\CriaServiço.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GUI\Orcamento.Designer.cs">
-      <DependentUpon>Orcamento.cs</DependentUpon>
+    <Compile Include="GUI\CriaServiço.Designer.cs">
+      <DependentUpon>CriaServiço.cs</DependentUpon>
     </Compile>
     <Compile Include="GUI\pesquisaCliente.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GUI\pesquisaCliente.Designer.cs">
       <DependentUpon>pesquisaCliente.cs</DependentUpon>
-    </Compile>
-    <Compile Include="GUI\Teste.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="GUI\Teste.Designer.cs">
-      <DependentUpon>Teste.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -85,20 +85,20 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.map</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="GUI\EfetuaServico.resx">
+      <DependentUpon>EfetuaServico.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\formTela.resx">
       <DependentUpon>formTela.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Orcamento.resx">
-      <DependentUpon>Orcamento.cs</DependentUpon>
+    <EmbeddedResource Include="GUI\CriaServiço.resx">
+      <DependentUpon>CriaServiço.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\pesquisaCliente.resx">
       <DependentUpon>pesquisaCliente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="GUI\Teste.resx">
-      <DependentUpon>Teste.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
