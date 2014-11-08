@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace Aplicativo.GUI
 {
-    public partial class Orcamento : Form
+    public partial class CriaServiço : Form
     {
-        public Orcamento()
+        public CriaServiço()
         {
             InitializeComponent();
         }
